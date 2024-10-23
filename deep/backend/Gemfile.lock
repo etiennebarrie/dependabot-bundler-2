@@ -16,5 +16,8 @@ DEPENDENCIES
   google-protobuf
   rake
 
+RUBY VERSION
+   ruby 3.4.0.preview2
+
 BUNDLED WITH
    2.5.22
